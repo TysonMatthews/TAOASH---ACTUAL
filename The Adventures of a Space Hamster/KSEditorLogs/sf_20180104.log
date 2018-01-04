@@ -1,0 +1,50 @@
+2018-01-04 12:39:38.2472 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 12:39:38.2890 [INFO] Setting define symbol SCENE_FUSION
+2018-01-04 12:39:42.8659 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 12:49:19.9673 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 12:49:19.9999 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 12:49:46.3156 [DEBUG] Play mode: False
+2018-01-04 12:49:54.3802 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 12:49:54.4026 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 12:50:38.3799 [DEBUG] Play mode: False
+2018-01-04 12:55:12.7834 [INFO] Launching Scene: Scene 01
+2018-01-04 12:55:13.4126 [DEBUG] Connecting
+2018-01-04 12:55:13.4342 [DEBUG] Connecting to room (53418:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 12:59:34.2605 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:00:54.1494 [DEBUG] Connecting
+2018-01-04 13:00:54.1740 [DEBUG] Connecting to room (53418:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 13:01:17.3816 [DEBUG] Sent Z:/Unity/Projects/The Adventures of a Space Hamster/KSEditorLogs/SessionLogs/session.53418-636506676541800424.log
+2018-01-04 13:01:19.6225 [INFO] Launching Scene: Scene 01
+2018-01-04 13:01:20.1292 [DEBUG] Connecting
+2018-01-04 13:01:20.1364 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:39:02.7185 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:39:34.4229 [INFO] Launching Scene: Scene 01
+2018-01-04 13:39:35.6230 [DEBUG] Connecting
+2018-01-04 13:39:35.6433 [DEBUG] Connecting to room (53421:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 13:44:25.0132 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:44:32.4188 [INFO] Launching Scene: Scene 01
+2018-01-04 13:44:32.9177 [DEBUG] Connecting
+2018-01-04 13:44:32.9424 [DEBUG] Connecting to room (53422:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1029
+2018-01-04 13:49:08.9193 [DEBUG] Sent Z:/Unity/Projects/The Adventures of a Space Hamster/KSEditorLogs/SessionLogs/session.53422-636506702729484318.log
+2018-01-04 13:49:27.4363 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:49:29.1559 [INFO] Launching Scene: Scene 01
+2018-01-04 13:49:29.7675 [DEBUG] Connecting
+2018-01-04 13:49:29.7876 [DEBUG] Connecting to room (53424:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1029
+2018-01-04 14:15:47.2211 [DEBUG] Sent Z:/Unity/Projects/The Adventures of a Space Hamster/KSEditorLogs/SessionLogs/session.53424-636506705697945077.log
+2018-01-04 14:18:30.7598 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 14:21:26.6848 [ERROR] MissingReferenceException: The object of type 'AudioMixerController' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.AudioMixersDataSource.<FetchData>m__0 (UnityEditor.Audio.AudioMixerController mixer) (at C:/buildslave/unity/build/Editor/Mono/Audio/Mixer/GUI/AudioMixersTreeView.cs:213)
+System.Linq.Enumerable+<CreateSelectIterator>c__Iterator10`2[UnityEditor.Audio.AudioMixerController,UnityEditor.AudioMixerItem].MoveNext ()
+System.Collections.Generic.List`1[UnityEditor.AudioMixerItem].AddEnumerable (IEnumerable`1 enumerable) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:128)
+System.Collections.Generic.List`1[UnityEditor.AudioMixerItem]..ctor (IEnumerable`1 collection) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:65)
+System.Linq.Enumerable.ToList[AudioMixerItem] (IEnumerable`1 source)
+UnityEditor.AudioMixersDataSource.FetchData () (at C:/buildslave/unity/build/Editor/Mono/Audio/Mixer/GUI/AudioMixersTreeView.cs:213)
+UnityEditor.IMGUI.Controls.TreeViewDataSource.ReloadData () (at C:/buildslave/unity/build/Editor/Mono/GUI/TreeView/TreeViewDataSource.cs:53)
+UnityEditor.IMGUI.Controls.TreeViewController.ReloadData () (at C:/buildslave/unity/build/Editor/Mono/GUI/TreeView/TreeViewController.cs:266)
+UnityEditor.AudioMixersTreeView..ctor (UnityEditor.AudioMixerWindow mixerWindow, UnityEditor.IMGUI.Controls.TreeViewState treeState, System.Func`1 getAllControllersCallback) (at C:/buildslave/unity/build/Editor/Mono/Audio/Mixer/GUI/AudioMixersTreeView.cs:544)
+UnityEditor.AudioMixerWindow.Init () (at C:/buildslave/unity/build/Editor/Mono/Audio/Mixer/GUI/AudioMixerWindow.cs:219)
+UnityEditor.AudioMixerWindow.OnProjectChanged () (at C:/buildslave/unity/build/Editor/Mono/Audio/Mixer/GUI/AudioMixerWindow.cs:355)
+UnityEditor.EditorApplication.Internal_CallProjectWindowHasChanged () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:141)
+
+2018-01-04 14:23:37.7316 [DEBUG] Scene Fusion version 1.7.1-0

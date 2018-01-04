@@ -1,0 +1,26 @@
+2018-01-04 12:55:13.8731 [DEBUG] Validating model...
+2018-01-04 12:55:13.9446 [DEBUG] Model validated
+2018-01-04 12:55:13.9455 [DEBUG] Authenticating with server...
+2018-01-04 12:55:14.1874 [DEBUG] Connected to room. (53418:SceneFusion:SceneFusion)
+2018-01-04 12:55:14.1919 [INFO] Connected to server.
+2018-01-04 12:55:14.1924 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 12:55:14.1933 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 12:55:14.1939 [DEBUG] Pro License : False
+2018-01-04 12:55:14.1943 [DEBUG] Platform : WindowsEditor
+2018-01-04 12:55:14.1948 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 12:55:14.1953 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 12:55:14.1953 [DEBUG] Scene Fusion client build : 0
+2018-01-04 12:55:14.1958 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 12:55:14.2920 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 12:55:14.2927 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 12:55:15.0473 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 12:55:15.0488 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 12:55:15.0493 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 12:55:15.0503 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 12:55:15.0508 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 12:55:15.3080 [DEBUG] Uploading scene 'Scene 01'
+2018-01-04 12:55:15.9797 [DEBUG] Spawn request. (Objects: 209)
+2018-01-04 12:59:13.5989 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 12:59:13.5996 [DEBUG] Disconnecting from room (53418:SceneFusion:SceneFusion)
+2018-01-04 12:59:13.6153 [INFO] Disconnected from server.
+2018-01-04 12:59:13.6163 [DEBUG] Disconnect. (Duration: 237)

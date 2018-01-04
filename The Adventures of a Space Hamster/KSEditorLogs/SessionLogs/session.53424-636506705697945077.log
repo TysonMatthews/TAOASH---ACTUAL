@@ -1,0 +1,135 @@
+2018-01-04 13:49:29.9135 [DEBUG] Validating model...
+2018-01-04 13:49:29.9859 [DEBUG] Model validated
+2018-01-04 13:49:29.9869 [DEBUG] Authenticating with server...
+2018-01-04 13:49:30.2277 [DEBUG] Connected to room. (53424:SceneFusion:SceneFusion)
+2018-01-04 13:49:30.2413 [INFO] Connected to server.
+2018-01-04 13:49:30.2423 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:49:30.2428 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:49:30.2440 [DEBUG] Pro License : False
+2018-01-04 13:49:30.2450 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:49:30.2459 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:49:30.2464 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:49:30.2469 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:49:30.2480 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:49:30.2489 [DEBUG] Waiting for server response
+2018-01-04 13:49:30.3058 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:49:30.3068 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:49:30.3827 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:49:30.3837 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:49:30.3844 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:49:30.3849 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:49:30.3859 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:49:30.5868 [DEBUG] Uploading scene 'Scene 01'
+2018-01-04 13:49:30.7773 [DEBUG] Compressing scene data
+2018-01-04 13:49:31.1984 [DEBUG] Spawn request. (Objects: 221)
+2018-01-04 13:49:31.3748 [DEBUG] Loading complete
+2018-01-04 13:50:26.7493 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:50:26.7503 [DEBUG] Disconnecting from room (53424:SceneFusion:SceneFusion)
+2018-01-04 13:50:26.7558 [INFO] Disconnected from server.
+2018-01-04 13:50:26.7563 [DEBUG] Disconnect. (Duration: 56)
+2018-01-04 13:50:31.9664 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:50:32.3320 [DEBUG] Property changes detected after recompile. Will not reconnect.
+2018-01-04 13:50:32.3541 [DEBUG] Connecting to room (53424:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1029
+2018-01-04 13:50:32.4940 [DEBUG] Validating model...
+2018-01-04 13:50:32.5578 [DEBUG] Model validated
+2018-01-04 13:50:32.5588 [DEBUG] Authenticating with server...
+2018-01-04 13:50:32.6600 [DEBUG] Authentication with the remote host failed. (53424:SceneFusion:SceneFusion)
+2018-01-04 13:50:34.7088 [DEBUG] Connection Failed. (53424:SceneFusion:SceneFusion)
+2018-01-04 13:50:45.9989 [DEBUG] Connection Failed. (53424:SceneFusion:SceneFusion)
+2018-01-04 13:50:53.3868 [INFO] Launching Scene: Scene 01
+2018-01-04 13:50:53.9298 [DEBUG] Connecting
+2018-01-04 13:50:53.9381 [DEBUG] Connecting to room (53425:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 13:50:53.9426 [DEBUG] Host connection. (Session: 53425)
+2018-01-04 13:50:54.0580 [DEBUG] Validating model...
+2018-01-04 13:50:54.1179 [DEBUG] Model validated
+2018-01-04 13:50:54.1184 [DEBUG] Authenticating with server...
+2018-01-04 13:50:54.3378 [DEBUG] Connected to room. (53425:SceneFusion:SceneFusion)
+2018-01-04 13:50:54.3441 [INFO] Connected to server.
+2018-01-04 13:50:54.3447 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:50:54.3453 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:50:54.3458 [DEBUG] Pro License : False
+2018-01-04 13:50:54.3463 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:50:54.3464 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:50:54.3469 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:50:54.3475 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:50:54.3475 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:50:54.3480 [DEBUG] Waiting for server response
+2018-01-04 13:50:54.3811 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:50:54.3820 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:50:54.4611 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:50:54.4621 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:50:54.4621 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:50:54.4631 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:50:54.4636 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:50:54.6508 [DEBUG] Uploading scene 'Scene 01'
+2018-01-04 13:50:54.8549 [DEBUG] Compressing scene data
+2018-01-04 13:50:55.2717 [DEBUG] Spawn request. (Objects: 221)
+2018-01-04 13:50:55.4359 [DEBUG] Loading complete
+2018-01-04 13:51:31.2634 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:55:27.6770 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:55:27.6775 [DEBUG] Disconnecting from room (53425:SceneFusion:SceneFusion)
+2018-01-04 13:55:27.6837 [INFO] Disconnected from server.
+2018-01-04 13:55:27.6847 [DEBUG] Disconnect. (Duration: 273)
+2018-01-04 13:55:32.6876 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:55:33.2752 [DEBUG] Connecting
+2018-01-04 13:55:33.2994 [DEBUG] Connecting to room (53425:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 13:55:33.3188 [DEBUG] Host connection. (Session: 53425)
+2018-01-04 13:55:33.4417 [DEBUG] Validating model...
+2018-01-04 13:55:33.5114 [DEBUG] Model validated
+2018-01-04 13:55:33.5129 [DEBUG] Authenticating with server...
+2018-01-04 13:55:33.6172 [DEBUG] Connected to room. (53425:SceneFusion:SceneFusion)
+2018-01-04 13:55:33.6322 [INFO] Connected to server.
+2018-01-04 13:55:33.6332 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:55:33.6332 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:55:33.6347 [DEBUG] Pro License : False
+2018-01-04 13:55:33.6362 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:55:33.6367 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:55:33.6417 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:55:33.6422 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:55:33.6427 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:55:33.6432 [DEBUG] Waiting for server response
+2018-01-04 13:55:33.8027 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:55:33.8029 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:55:33.8580 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:55:33.8587 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:55:33.8591 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:55:33.8591 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:55:33.8598 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:55:34.1747 [DEBUG] Loading complete
+2018-01-04 13:59:19.5658 [WARNING] Property mismatch detected on 'PauseMenu'. Your script source code may be out of sync.
+2018-01-04 13:59:32.7109 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:59:32.7124 [DEBUG] Disconnecting from room (53425:SceneFusion:SceneFusion)
+2018-01-04 13:59:32.7274 [INFO] Disconnected from server.
+2018-01-04 13:59:32.7284 [DEBUG] Disconnect. (Duration: 518)
+2018-01-04 13:59:37.5733 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:59:38.3369 [DEBUG] Connecting
+2018-01-04 13:59:38.3585 [DEBUG] Connecting to room (53425:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1028
+2018-01-04 13:59:38.3730 [DEBUG] Host connection. (Session: 53425)
+2018-01-04 13:59:38.4953 [DEBUG] Validating model...
+2018-01-04 13:59:38.5625 [DEBUG] Model validated
+2018-01-04 13:59:38.5635 [DEBUG] Authenticating with server...
+2018-01-04 13:59:38.6668 [DEBUG] Connected to room. (53425:SceneFusion:SceneFusion)
+2018-01-04 13:59:38.6763 [INFO] Connected to server.
+2018-01-04 13:59:38.6773 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:59:38.6773 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:59:38.6783 [DEBUG] Pro License : False
+2018-01-04 13:59:38.6788 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:59:38.6798 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:59:38.6808 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:59:38.6818 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:59:38.6823 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:59:38.6828 [DEBUG] Waiting for server response
+2018-01-04 13:59:38.8222 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:59:38.8227 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:59:38.8812 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:59:38.8818 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:59:38.8822 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:59:38.8822 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:59:38.8827 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:59:39.1699 [WARNING] Property mismatch detected on 'PauseMenu'. Your script source code may be out of sync.
+2018-01-04 13:59:39.2361 [WARNING] Property mismatch detected on 'DialogueTrigger'. Your script source code may be out of sync.
+2018-01-04 13:59:39.2597 [DEBUG] Loading complete
+2018-01-04 14:03:38.4520 [DEBUG] Refresh token (eIWu3iZbCPxKOk2bqKnIGCeXsO6KxE6NIBBP1wL6h9alSpWONcKB8gs7hSPtyzdGKjQ3oQPH0mEPHLhPnGEiEfCfzWkmT7u1so6HxsfDcWeSY5cb7daLyt6YUpxoT9fkImciTMlB99cZmCiCkybSP634RiCoEosPe1UTDH4YoGT2yDubi5eCZHLhFwkaUfryLZEkcgyYH4am7ypWbB32eoMB5Oe3G8ELKqSdS59goC8s9573dOBUXakBOfWbg5I) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-04 14:15:47.1419 [DEBUG] Disconnecting from room (53425:SceneFusion:SceneFusion)
+2018-01-04 14:15:47.1489 [INFO] Disconnected from server.
+2018-01-04 14:15:47.1494 [DEBUG] Disconnect. (Duration: 1492)

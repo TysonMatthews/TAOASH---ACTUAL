@@ -1,0 +1,352 @@
+2018-01-04 13:01:20.2565 [DEBUG] Validating model...
+2018-01-04 13:01:20.3328 [DEBUG] Model validated
+2018-01-04 13:01:20.3421 [DEBUG] Authenticating with server...
+2018-01-04 13:01:20.5754 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:01:20.5839 [INFO] Connected to server.
+2018-01-04 13:01:20.5844 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:01:20.5849 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:01:20.5854 [DEBUG] Pro License : False
+2018-01-04 13:01:20.5859 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:01:20.5866 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:01:20.5866 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:01:20.5872 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:01:20.5872 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:01:20.5877 [DEBUG] Waiting for server response
+2018-01-04 13:01:20.6000 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:01:20.6005 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:01:20.6030 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:01:20.6033 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:01:20.6043 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:01:20.6048 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:01:20.6054 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:01:20.7105 [DEBUG] Uploading scene 'Scene 01'
+2018-01-04 13:01:20.9005 [DEBUG] Compressing scene data
+2018-01-04 13:01:21.3153 [DEBUG] Spawn request. (Objects: 209)
+2018-01-04 13:01:21.4933 [DEBUG] Loading complete
+2018-01-04 13:03:44.1087 [DEBUG] Refresh token (eIWu3iZbCPxKOk2bqKnIGCeXsO6KxE6NIBBP1wL6h9alSpWONcKB8gs7hSPtyzdGKjQ3oQPH0mEPHLhPnGEiEfCfzWkmT7u1so6HxsfDcWeSY5cb7daLyt6YUpxoT9fkImciTMlB99cZmCiCkybSP634RiCoEosPe1UTDH4YoGT2yDubi5eCZHLhFwkaUfryLZEkcgyYH4am7ypWbB32eoMB5Oe3G8ELKqSdS59goC8s9573dOBUXakBOfWbg5I) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-04 13:15:40.9704 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:21:41.7843 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:21:48.8444 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:22:22.5642 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:29:19.3511 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-01-04 13:29:19.3519 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:29:19.3545 [INFO] Disconnected from server.
+2018-01-04 13:29:19.3551 [DEBUG] Disconnect. (Duration: 1678)
+2018-01-04 13:29:19.3635 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-01-04 13:29:21.5669 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:29:21.6264 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 13:29:21.7392 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:29:21.7529 [DEBUG] Host connection. (Session: 53419)
+2018-01-04 13:29:21.8792 [DEBUG] Validating model...
+2018-01-04 13:29:21.9474 [DEBUG] Model validated
+2018-01-04 13:29:21.9489 [DEBUG] Authenticating with server...
+2018-01-04 13:29:22.0521 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:29:22.0612 [INFO] Connected to server.
+2018-01-04 13:29:22.0617 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:29:22.0622 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:29:22.0627 [DEBUG] Pro License : False
+2018-01-04 13:29:22.0632 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:29:22.0637 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:29:22.0642 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:29:22.0647 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:29:22.0652 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:29:22.2263 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:29:22.2270 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:29:22.5122 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:29:22.5132 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:29:22.5137 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:29:22.5142 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:29:22.5147 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:29:25.6359 [DEBUG] Play mode: False
+2018-01-04 13:29:25.8636 [DEBUG] Loading complete
+2018-01-04 13:29:26.2109 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-01-04 13:29:26.2124 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:29:26.2204 [INFO] Disconnected from server.
+2018-01-04 13:29:26.2219 [DEBUG] Disconnect. (Duration: -24)
+2018-01-04 13:29:26.2445 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-01-04 13:29:28.1612 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:29:28.2949 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:29:28.3084 [DEBUG] Host connection. (Session: 53419)
+2018-01-04 13:29:28.3094 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 13:29:28.4346 [DEBUG] Validating model...
+2018-01-04 13:29:28.5018 [DEBUG] Model validated
+2018-01-04 13:29:28.5028 [DEBUG] Authenticating with server...
+2018-01-04 13:29:28.6086 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:29:28.6261 [INFO] Connected to server.
+2018-01-04 13:29:28.6266 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:29:28.6271 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:29:28.6276 [DEBUG] Pro License : False
+2018-01-04 13:29:28.6281 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:29:28.6286 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:29:28.6291 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:29:28.6296 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:29:28.6301 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:29:28.7570 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:29:28.7573 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:29:28.8091 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:29:28.8096 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:29:28.8102 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:29:28.8107 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:29:28.8107 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:29:37.4508 [DEBUG] Play mode: False
+2018-01-04 13:29:37.7008 [DEBUG] Loading complete
+2018-01-04 13:31:23.2002 [DEBUG] Spawn request. (Objects: 1)
+2018-01-04 13:33:19.0942 [DEBUG] Spawn request. (Objects: 2)
+2018-01-04 13:35:28.9123 [DEBUG] Refresh token (eIWu3iZbCPxKOk2bqKnIGCeXsO6KxE6NIBBP1wL6h9alSpWONcKB8gs7hSPtyzdGKjQ3oQPH0mEPHLhPnGEiEfCfzWkmT7u1so6HxsfDcWeSY5cb7daLyt6YUpxoT9fkImciTMlB99cZmCiCkybSP634RiCoEosPe1UTDH4YoGT2yDubi5eCZHLhFwkaUfryLZEkcgyYH4am7ypWbB32eoMB5Oe3G8ELKqSdS59goC8s9573dOBUXakBOfWbg5I) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-04 13:35:51.8459 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-01-04 13:35:51.8470 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:35:51.8596 [INFO] Disconnected from server.
+2018-01-04 13:35:51.8601 [DEBUG] Disconnect. (Duration: 349)
+2018-01-04 13:35:51.8832 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-01-04 13:35:54.1692 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:35:54.2321 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 13:35:54.3301 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:35:54.3440 [DEBUG] Host connection. (Session: 53419)
+2018-01-04 13:35:54.4738 [DEBUG] Validating model...
+2018-01-04 13:35:54.5452 [DEBUG] Model validated
+2018-01-04 13:35:54.5472 [DEBUG] Authenticating with server...
+2018-01-04 13:35:54.6710 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:35:54.6830 [INFO] Connected to server.
+2018-01-04 13:35:54.6835 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:35:54.6840 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:35:54.6845 [DEBUG] Pro License : False
+2018-01-04 13:35:54.6850 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:35:54.6850 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:35:54.6855 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:35:54.6860 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:35:54.6865 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:35:54.8234 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:35:54.8239 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:35:55.0673 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:35:55.0683 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:35:55.0688 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:35:55.0693 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:35:55.0698 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:36:12.2704 [DEBUG] Play mode: False
+2018-01-04 13:36:12.4994 [DEBUG] Loading complete
+2018-01-04 13:36:28.9899 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-01-04 13:36:28.9910 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:36:29.0040 [INFO] Disconnected from server.
+2018-01-04 13:36:29.0045 [DEBUG] Disconnect. (Duration: -8)
+2018-01-04 13:36:29.0240 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-01-04 13:36:31.1589 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:36:31.2142 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-04 13:36:31.3308 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:36:31.3445 [DEBUG] Host connection. (Session: 53419)
+2018-01-04 13:36:31.4672 [DEBUG] Validating model...
+2018-01-04 13:36:31.5334 [DEBUG] Model validated
+2018-01-04 13:36:31.5349 [DEBUG] Authenticating with server...
+2018-01-04 13:36:31.6347 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:36:31.6467 [INFO] Connected to server.
+2018-01-04 13:36:31.6472 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:36:31.6477 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:36:31.6482 [DEBUG] Pro License : False
+2018-01-04 13:36:31.6487 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:36:31.6492 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:36:31.6497 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:36:31.6502 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:36:31.6502 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:36:31.8369 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:36:31.8379 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:36:32.0767 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:36:32.0772 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:36:32.0777 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:36:32.0782 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:36:32.0787 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:36:39.2384 [DEBUG] Play mode: False
+2018-01-04 13:36:39.4650 [DEBUG] Loading complete
+2018-01-04 13:38:07.6190 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:07.6200 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:38:07.6295 [INFO] Disconnected from server.
+2018-01-04 13:38:07.6302 [DEBUG] Disconnect. (Duration: 63)
+2018-01-04 13:38:22.8566 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:38:23.3275 [DEBUG] Connecting
+2018-01-04 13:38:24.2477 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:38:24.2636 [DEBUG] Host connection. (Session: 53419)
+2018-01-04 13:38:24.2766 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.2806 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.3840 [DEBUG] Validating model...
+2018-01-04 13:38:24.4474 [DEBUG] Model validated
+2018-01-04 13:38:24.4484 [DEBUG] Authenticating with server...
+2018-01-04 13:38:24.5467 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.5482 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.5542 [DEBUG] Connected to room. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:38:24.5668 [INFO] Connected to server.
+2018-01-04 13:38:24.5673 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-04 13:38:24.5678 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-04 13:38:24.5688 [DEBUG] Pro License : False
+2018-01-04 13:38:24.5698 [DEBUG] Platform : WindowsEditor
+2018-01-04 13:38:24.5703 [DEBUG] Build Target : StandaloneWindows64
+2018-01-04 13:38:24.5708 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-04 13:38:24.5708 [DEBUG] Scene Fusion client build : 0
+2018-01-04 13:38:24.5713 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-04 13:38:24.5713 [DEBUG] Waiting for server response
+2018-01-04 13:38:24.5793 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.5808 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.5863 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.5878 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.5948 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.5963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6019 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6034 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6099 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6124 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6184 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6199 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6249 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6269 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6329 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6344 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6400 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6415 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6495 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6505 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6555 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6565 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6630 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6650 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6710 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6720 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6806 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.6876 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:24.6891 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+KS.SceneFusion.Client.Editor.CoEditService.set_RejoinOnStart (Boolean value)
+KS.SceneFusion.Client.Editor.CoEditService.Disconnect (Boolean rejoin)
+KS.SceneFusion.Client.Editor.CoEditService.DisconnectTemporarilyToRecompile ()
+KS.SceneFusion.Client.Editor.CoEditService.ConnectedUpdate ()
+KS.SceneFusion.Client.Editor.CoEditService.Update ()
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2018-01-04 13:38:24.7332 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-04 13:38:24.7342 [DEBUG] User Permissions: FFFFFFFF
+2018-01-04 13:38:25.0681 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-04 13:38:25.0691 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-04 13:38:25.0696 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-04 13:38:25.0701 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-04 13:38:25.0701 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-04 13:38:25.2140 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-04 13:38:25.2150 [DEBUG] Disconnecting from room (53419:SceneFusion:SceneFusion)
+2018-01-04 13:38:25.2316 [INFO] Disconnected from server.
+2018-01-04 13:38:25.2321 [DEBUG] Disconnect. (Duration: 80)
+2018-01-04 13:38:29.4307 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 13:38:29.8386 [DEBUG] Property changes detected after recompile. Will not reconnect.
+2018-01-04 13:38:29.8592 [DEBUG] Connecting to room (53419:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1030
+2018-01-04 13:38:30.0022 [DEBUG] Validating model...
+2018-01-04 13:38:30.0664 [DEBUG] Model validated
+2018-01-04 13:38:30.0684 [DEBUG] Authenticating with server...
+2018-01-04 13:38:30.1725 [DEBUG] Authentication with the remote host failed. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:38:32.2145 [DEBUG] Connection Failed. (53419:SceneFusion:SceneFusion)
+2018-01-04 13:38:32.5475 [DEBUG] Connection Failed. (53419:SceneFusion:SceneFusion)
