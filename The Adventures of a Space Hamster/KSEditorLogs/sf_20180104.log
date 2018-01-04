@@ -48,3 +48,6 @@ UnityEditor.AudioMixerWindow.OnProjectChanged () (at C:/buildslave/unity/build/E
 UnityEditor.EditorApplication.Internal_CallProjectWindowHasChanged () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:141)
 
 2018-01-04 14:23:37.7316 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 14:51:40.1711 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 14:55:48.1967 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-04 15:02:36.4841 [DEBUG] Scene Fusion version 1.7.1-0
