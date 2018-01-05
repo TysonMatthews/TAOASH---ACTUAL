@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0236189f5e55f0e4ea9e4b83636eda1a
-timeCreated: 1515093333
+timeCreated: 1515180006
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -14,6 +14,7 @@ TextureImporter:
     21300014: Ground Textures_7
     21300016: Ground Textures_8
     21300018: Ground Textures_9
+    21300020: Ground Textures_10
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -215,6 +216,20 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 836
+        y: 1956
+        width: 84
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground Textures_10
+      rect:
+        serializedVersion: 2
+        x: 928
         y: 1956
         width: 84
         height: 84

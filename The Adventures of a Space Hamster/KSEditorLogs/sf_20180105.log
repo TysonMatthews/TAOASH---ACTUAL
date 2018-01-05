@@ -9,3 +9,2596 @@
 2018-01-05 12:44:01.1732 [DEBUG] Connecting
 2018-01-05 12:44:01.1948 [DEBUG] Connecting to room (53482:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1027
 2018-01-05 13:06:25.7743 [DEBUG] Sent C:/Users/adam.morris/Documents/TAOASH---ACTUAL/The Adventures of a Space Hamster/KSEditorLogs/SessionLogs/session.53482-636507530411997950.log
+2018-01-05 13:18:56.2898 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:26:57.5522 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:28:14.2437 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:35:05.1024 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:35:05.1430 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:35:07.5641 [DEBUG] Play mode: False
+2018-01-05 13:35:27.0479 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:35:27.0839 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:35:32.8610 [DEBUG] Play mode: False
+2018-01-05 13:35:59.7047 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:35:59.7418 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:36:16.2159 [DEBUG] Play mode: False
+2018-01-05 13:36:24.2763 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:36:24.3139 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:36:33.8334 [DEBUG] Play mode: False
+2018-01-05 13:47:26.5601 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:47:28.7351 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:47:28.7727 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:47:29.1322 [DEBUG] Play mode: False
+2018-01-05 13:49:19.0327 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:49:21.0952 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:49:21.1288 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:49:22.9714 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:22.9775 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:22.9855 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:22.9924 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0004 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0067 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0132 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0212 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0282 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0362 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0427 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0502 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0587 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0683 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0748 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0818 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0893 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.0978 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1036 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1112 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1272 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1357 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1427 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1492 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1661 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1724 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1800 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1872 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.1952 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2018 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2108 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2185 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2270 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2336 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2409 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2479 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2552 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2624 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2694 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2774 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2865 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.2938 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3003 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3162 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3225 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3300 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3376 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3445 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3510 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3610 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3681 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3754 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3820 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3891 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.3964 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4044 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4130 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4200 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4280 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4345 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4420 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4488 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4564 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4629 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4699 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4775 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4840 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4910 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.4982 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5072 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5156 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5231 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5301 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5381 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5453 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5519 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5619 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5689 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5763 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5828 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5908 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.5973 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6045 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6115 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6191 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6268 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6359 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6429 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6499 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6577 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6642 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6712 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6782 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6853 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6923 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.6988 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7068 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7133 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7210 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7286 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7386 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7456 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7521 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7616 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7682 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7762 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7832 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7901 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.7976 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8052 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8132 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8197 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8272 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8347 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8437 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8518 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8598 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8663 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8733 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8803 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8880 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.8949 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9015 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9095 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9160 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9227 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9297 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9372 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9468 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9558 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9653 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9718 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9788 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9858 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9929 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:23.9999 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0074 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0139 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0209 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0280 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0345 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0416 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0607 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0677 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0747 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0815 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0885 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.0960 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1025 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1100 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1176 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1248 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1313 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1388 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1463 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1534 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1609 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1719 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1799 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1865 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.1935 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2005 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2090 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2155 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2225 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2300 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2364 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2439 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2515 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2585 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2655 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2746 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2825 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2906 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.2976 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3048 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3113 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3188 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3258 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3324 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3394 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3464 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3539 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3609 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3675 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3782 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3858 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.3948 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4013 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4088 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4161 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4231 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4303 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4380 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4447 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4512 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4593 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4663 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4728 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4803 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4871 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.4952 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5032 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5117 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5182 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5263 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5328 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5398 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5468 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5539 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5614 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5684 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5799 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5880 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.5955 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6030 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6110 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6185 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6266 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6330 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6404 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6474 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6554 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6624 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6694 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6773 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6838 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6909 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.6984 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7052 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7128 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7208 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7298 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7368 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7461 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7531 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7616 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7681 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7755 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7926 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.7991 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8066 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8141 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8216 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8301 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8375 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8450 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8517 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8592 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8667 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8737 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8807 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8881 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.8951 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9016 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9093 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9158 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9243 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9319 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9403 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9479 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9560 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9626 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9701 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9778 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9868 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:24.9933 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0004 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0078 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0149 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0214 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0289 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0365 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0439 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0520 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0600 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0675 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0745 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0815 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0888 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.0964 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1025 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1106 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1176 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1246 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1316 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1381 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1461 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1541 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1621 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1692 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1777 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1873 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.1939 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2004 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2079 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2153 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2219 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2289 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2360 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2436 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2506 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2596 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2677 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2757 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2827 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2895 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.2965 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3033 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3103 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3173 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3243 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3313 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3383 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3453 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3518 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3594 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3669 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3759 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3834 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.3935 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4000 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4075 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4145 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4210 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4286 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4356 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4429 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4499 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4575 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4640 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4710 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4796 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4886 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.4961 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5031 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5104 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5173 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5323 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5389 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5464 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5529 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5599 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5675 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5745 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5815 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5893 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.5993 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6087 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6157 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6217 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6292 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6364 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6434 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6505 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6584 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6650 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6716 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6792 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6867 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.6962 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7038 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7118 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7186 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7261 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7331 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7400 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7475 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7540 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7610 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7680 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7757 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7825 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7900 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.7990 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8076 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8151 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8236 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8311 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8381 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8460 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8523 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8594 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8664 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8729 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8804 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8882 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.8958 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9020 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9106 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9181 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9271 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9346 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9411 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9482 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9552 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9628 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9703 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9778 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9848 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:25.9928 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0024 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0089 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0164 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0228 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0318 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0399 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0479 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0545 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0615 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0685 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0755 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0823 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0893 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.0973 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1037 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1113 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1185 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1260 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1324 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1391 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1470 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1551 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1636 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1706 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1784 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1852 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.1922 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2017 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2124 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2194 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2269 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2334 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2405 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2480 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2549 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2719 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2796 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2863 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.2934 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3009 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3084 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3154 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3220 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3290 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3365 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3430 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3500 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3570 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3660 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3766 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3836 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3901 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.3981 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4052 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4152 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4212 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4287 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4357 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4493 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4587 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4663 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4743 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4823 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4903 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.4978 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5054 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5124 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5194 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5269 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5334 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5405 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5480 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5545 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5615 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5686 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5755 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5825 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5911 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.5996 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6071 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6176 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6236 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6312 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6382 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6467 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6528 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6603 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6673 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6740 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6810 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6891 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.6971 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7061 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7131 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7201 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7272 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7345 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7415 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7485 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7551 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7621 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7696 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7766 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7834 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7897 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.7973 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8052 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8132 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8235 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8305 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8381 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8456 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8523 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8593 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8674 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8734 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8809 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8879 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.8948 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9018 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9098 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9174 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9269 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9334 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9404 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9479 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9549 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9619 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9689 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9764 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9830 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9900 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:26.9973 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0148 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0259 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0339 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0409 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0484 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0554 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0630 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0695 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0765 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0840 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0905 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.0981 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1049 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1131 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1197 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1281 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1361 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1439 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1510 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1584 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1659 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1719 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1794 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1864 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.1932 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2002 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2072 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2140 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2220 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2315 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2380 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2470 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2555 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2633 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2703 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2780 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2845 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2910 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.2984 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3051 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3122 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3200 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3267 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3332 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3402 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3482 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3553 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3638 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3708 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3824 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3894 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.3974 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4044 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4114 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4179 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4259 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4355 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4415 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4490 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4555 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4620 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4693 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4765 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4831 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.4916 [ERROR] ArgumentException: Input Key named: E is unknown
+UnityEngine.Input.GetKey (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/InputBindings.gen.cs:446)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:11)
+
+2018-01-05 13:49:27.6493 [DEBUG] Play mode: False
+2018-01-05 13:50:48.1767 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:50:48.2165 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:50:50.9934 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0015 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0086 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0231 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0306 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0391 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0487 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0614 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0678 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0822 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:50:51.0916 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:51:10.3756 [DEBUG] Play mode: False
+2018-01-05 13:51:28.5047 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:51:28.5410 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:51:31.3462 [DEBUG] Play mode: False
+2018-01-05 13:51:45.0757 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 13:51:45.1102 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 13:51:47.3368 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:17)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:12)
+
+2018-01-05 13:51:56.7657 [DEBUG] Play mode: False
+2018-01-05 13:59:09.1073 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:00:21.9158 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:00:21.9527 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:00:27.4377 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:21)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:16)
+
+2018-01-05 14:00:39.2122 [DEBUG] Play mode: False
+2018-01-05 14:08:22.4710 [DEBUG] Refresh token (gmr2YbjfGrm1dqfJXNCPDdCfjdc68ZwXULl1XflcDh29UL9P97clYo4iorfateP7HkchfXsCnHnK8PQTMFiFPnW842Oslc4yqUrupZkEQGXWoFhd2iU12JgYi8Ij9cJzmbFgUsbbU1i6EfrbaxJ5pij0A0klcNUFgMNw5p4isKfoadPPd6OjuZpaIjk6gobDaYkF7X5S2SeWkgrj7Q867LEAHaO56gAUtW4tSq7sDXds0MeYxhpLgDPwcq61U1u) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-05 14:17:00.2115 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:17:00.2517 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:17:39.3591 [DEBUG] Play mode: False
+2018-01-05 14:19:44.2787 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:19:44.3123 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:20:00.0846 [DEBUG] Play mode: False
+2018-01-05 14:20:23.5536 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:20:23.5963 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:20:31.9762 [DEBUG] Play mode: False
+2018-01-05 14:23:13.6713 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:23:13.7195 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:23:24.9519 [DEBUG] Play mode: False
+2018-01-05 14:27:14.2342 [DEBUG] Refresh token (gmr2YbjfGrm1dqfJXNCPDdCfjdc68ZwXULl1XflcDh29UL9P97clYo4iorfateP7HkchfXsCnHnK8PQTMFiFPnW842Oslc4yqUrupZkEQGXWoFhd2iU12JgYi8Ij9cJzmbFgUsbbU1i6EfrbaxJ5pij0A0klcNUFgMNw5p4isKfoadPPd6OjuZpaIjk6gobDaYkF7X5S2SeWkgrj7Q867LEAHaO56gAUtW4tSq7sDXds0MeYxhpLgDPwcq61U1u) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-05 14:27:34.5094 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:30:26.4221 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:30:26.4600 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:30:29.5017 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:23)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:18)
+
+2018-01-05 14:30:42.5172 [DEBUG] Play mode: False
+2018-01-05 14:30:46.1413 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:30:46.1607 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:30:52.2611 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:23)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:18)
+
+2018-01-05 14:31:02.6005 [DEBUG] Play mode: False
+2018-01-05 14:36:29.2630 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:37:03.2332 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:37:03.2714 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:37:05.8293 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:37:11.5835 [DEBUG] Play mode: False
+2018-01-05 14:41:38.1755 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:41:38.2194 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:41:45.1911 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:41:46.4370 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:41:47.2356 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:41:47.7159 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:41:48.0794 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:41:48.3847 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:30)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:25)
+
+2018-01-05 14:42:10.6316 [DEBUG] Play mode: False
+2018-01-05 14:45:54.9390 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:45:54.9746 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:45:57.1436 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+DialogueManager.StartDialogue (.Dialogue dialogue) (at Assets/Scripts/DialogueManager.cs:20)
+DialogueTrigger.TriggerDialogue () (at Assets/Scripts/DialogueTrigger.cs:24)
+DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:19)
+
+2018-01-05 14:46:12.4670 [DEBUG] Play mode: False
+2018-01-05 14:53:53.4674 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:53:53.5091 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:54:12.1576 [DEBUG] Play mode: False
+2018-01-05 14:54:40.0298 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:54:40.0686 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:54:49.9675 [DEBUG] Play mode: False
+2018-01-05 14:56:39.8645 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:56:39.9031 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:57:04.4964 [DEBUG] Play mode: False
+2018-01-05 14:57:07.0616 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:57:07.0996 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:57:19.9661 [DEBUG] Play mode: False
+2018-01-05 14:58:00.1775 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:58:00.2263 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:58:23.3670 [DEBUG] Play mode: False
+2018-01-05 14:58:38.3673 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:58:38.4049 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 14:59:15.6936 [DEBUG] Play mode: False
+2018-01-05 14:59:42.1539 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 14:59:42.1746 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 15:00:29.0133 [DEBUG] Play mode: False
+2018-01-05 15:09:24.7985 [DEBUG] Scene Fusion version 1.7.1-0
+2018-01-05 15:09:24.8396 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-05 15:09:47.3472 [DEBUG] Play mode: False
