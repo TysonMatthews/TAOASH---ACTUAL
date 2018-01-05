@@ -1,0 +1,30 @@
+2018-01-05 12:43:53.2059 [DEBUG] Validating model...
+2018-01-05 12:43:53.2824 [DEBUG] Model validated
+2018-01-05 12:43:53.2834 [DEBUG] Authenticating with server...
+2018-01-05 12:43:53.5184 [DEBUG] Connected to room. (53482:SceneFusion:SceneFusion)
+2018-01-05 12:43:53.5294 [INFO] Connected to server.
+2018-01-05 12:43:53.5302 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-01-05 12:43:53.5302 [DEBUG] Unity Version : 2017.1.1f1
+2018-01-05 12:43:53.5312 [DEBUG] Pro License : False
+2018-01-05 12:43:53.5322 [DEBUG] Platform : WindowsEditor
+2018-01-05 12:43:53.5327 [DEBUG] Build Target : StandaloneWindows64
+2018-01-05 12:43:53.5334 [DEBUG] Scene Fusion version : 1.7.1
+2018-01-05 12:43:53.5339 [DEBUG] Scene Fusion client build : 0
+2018-01-05 12:43:53.5344 [DEBUG] User : tyson.matthews@my.netech.edu
+2018-01-05 12:43:53.5350 [DEBUG] Waiting for server response
+2018-01-05 12:43:53.7716 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-05 12:43:53.7721 [DEBUG] User Permissions: FFFFFFFF
+2018-01-05 12:43:54.9222 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-05 12:43:54.9233 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-05 12:43:54.9244 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-05 12:43:54.9252 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-05 12:43:54.9262 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-05 12:43:55.0963 [DEBUG] Uploading scene 'Scene 01'
+2018-01-05 12:43:55.5270 [DEBUG] Compressing scene data
+2018-01-05 12:43:56.0458 [DEBUG] Spawn request. (Objects: 222)
+2018-01-05 12:43:56.2499 [DEBUG] Loading complete
+2018-01-05 12:45:11.2191 [DEBUG] Spawn request. (Objects: 1)
+2018-01-05 13:00:58.7317 [DEBUG] Refresh token (JFUD7RA5Qm7uiQFXrypD73qisGRyB0HLQtIJUlHAjcOPWeAqBpOqYCEDu08yIdUGnIgLam6u4b39OUhDnTrudc0876mIEdwtejiUnsjhNnoH0NMuka70AhSBFacxBjdmG3UkEiwPzHEmGD9TtpnMJ9eGym6LjDop8XztTXHbDnKuNpH2KHpaX08qdl2x1abNeDXo4cjTEMYMFyONUUsNPTnNr7aWWMdM02XanTNwBQCJK6Le4QgwgkHRz3Eac0c) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-05 13:05:42.4798 [DEBUG] Disconnecting from room (53482:SceneFusion:SceneFusion)
+2018-01-05 13:05:42.4863 [INFO] Disconnected from server.
+2018-01-05 13:05:42.4868 [DEBUG] Disconnect. (Duration: 1308)
