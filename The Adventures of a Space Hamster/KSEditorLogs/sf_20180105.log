@@ -2602,3 +2602,4 @@ DialogueTrigger.Update () (at Assets/Scripts/DialogueTrigger.cs:19)
 2018-01-05 15:09:24.7985 [DEBUG] Scene Fusion version 1.7.1-0
 2018-01-05 15:09:24.8396 [DEBUG] Play mode: True, sync in play mode: False
 2018-01-05 15:09:47.3472 [DEBUG] Play mode: False
+2018-01-05 15:17:25.3438 [DEBUG] Refresh token (gmr2YbjfGrm1dqfJXNCPDdCfjdc68ZwXULl1XflcDh29UL9P97clYo4iorfateP7HkchfXsCnHnK8PQTMFiFPnW842Oslc4yqUrupZkEQGXWoFhd2iU12JgYi8Ij9cJzmbFgUsbbU1i6EfrbaxJ5pij0A0klcNUFgMNw5p4isKfoadPPd6OjuZpaIjk6gobDaYkF7X5S2SeWkgrj7Q867LEAHaO56gAUtW4tSq7sDXds0MeYxhpLgDPwcq61U1u) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
