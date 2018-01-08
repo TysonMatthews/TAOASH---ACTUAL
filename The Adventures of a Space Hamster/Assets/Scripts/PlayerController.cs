@@ -80,7 +80,7 @@ public class PlayerController : MonoBehaviour {
 			iLevelManager.Respawn ();
 		}
 
-		if(other.tag == "HurtPlayer") {
+		if(other.tag == "Enemy") {
 			rb2d.velocity = new Vector2 (rb2d.velocity.x, hurtJumpForce);
 		}
 

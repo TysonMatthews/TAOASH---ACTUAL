@@ -6,14 +6,12 @@ public class CheckpointController : MonoBehaviour {
 
 	public bool checkpointActive;
 
-	private SpriteRenderer sRend;
 
 	public LevelManager iLM;
 
 	private Animator Anim;
 
 	void Start () {
-		sRend = GetComponent<SpriteRenderer> ();
 		Anim = GetComponent<Animator> ();
 	}
 
