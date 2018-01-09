@@ -66,3 +66,6 @@ Z:\Unity\Projects\TAOASH\The Adventures of a Space Hamster\Temp\bin\Debug\UnityE
 Z:\Unity\Projects\TAOASH\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 Z:\Unity\Projects\TAOASH\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.dll
 Z:\Unity\Projects\TAOASH\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.pdb
+C:\Users\adam.morris\Documents\TAOASH---ACTUAL\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\adam.morris\Documents\TAOASH---ACTUAL\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.dll
+C:\Users\adam.morris\Documents\TAOASH---ACTUAL\The Adventures of a Space Hamster\obj\Debug\Assembly-CSharp.pdb
