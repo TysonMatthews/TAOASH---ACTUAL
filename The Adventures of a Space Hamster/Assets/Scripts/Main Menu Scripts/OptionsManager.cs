@@ -15,7 +15,11 @@ public class OptionsManager : MonoBehaviour {
 
 	Resolution[] resolutions;
 
+	public PauseMenu pMenu;
+
 	void Start () {
+			Time.timeScale = 0f;
+
 		resolutions = Screen.resolutions;
 
 		//clears options in resolution dropdown
