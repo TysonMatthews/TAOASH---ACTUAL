@@ -16,6 +16,11 @@ public class PlayerController : MonoBehaviour {
 	public float groundCheckRadius;
 	public LayerMask WhatIsGround;
 	public bool isGrounded;
+	public RaycastHit2D hit;
+	public float dist;
+	public Vector2 dir;
+	public Vector2 dirDR;
+	public Vector2 dirDL;
 
 	//Get Components Section
 	private Rigidbody2D rb2d;
@@ -31,14 +36,34 @@ public class PlayerController : MonoBehaviour {
 		rb2d = GetComponent<Rigidbody2D> ();
 		Anim = GetComponent<Animator> ();
 
+
+
 		respawnPosition = transform.position;
 
 		iLevelManager = FindObjectOfType<LevelManager> ();
 	}
 	
 	void Update () {
+		//Sets the direction of the raycast to below the Player
+		dir = Vector2.down;
+
+		//Sets the direction of the raycast to be at the bottom diagonals of the player
+		dirDR = new Vector2 (1f, -1f);
+		dirDL = new Vector2 (-1f, -1f);
+
+		//Draws a line to represent the raycasts
+		Debug.DrawRay(gameObject.transform.position, dir*dist,Color.red);
+		Debug.DrawRay(gameObject.transform.position, dirDR*dist,Color.red);
+		Debug.DrawRay(gameObject.transform.position, dirDL*dist,Color.red);
+
 		//Checks if the player is touching the ground so that it can jump
-		isGrounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, WhatIsGround);
+		if(Physics2D.Raycast(gameObject.transform.position,dir,dist,WhatIsGround)){
+			isGrounded = true;
+		} else if (Physics2D.Raycast(gameObject.transform.position, dirDR, dist, WhatIsGround)) {
+			isGrounded = true;
+		} else if (Physics2D.Raycast(gameObject.transform.position, dirDL, dist, WhatIsGround)) {
+			isGrounded = true;
+		} else {isGrounded = false;}
 
 		//Walking Mechanics
 		if(Input.GetAxisRaw ("Horizontal") > 0f) {
