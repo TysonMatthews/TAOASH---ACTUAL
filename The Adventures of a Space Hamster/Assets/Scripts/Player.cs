@@ -5,25 +5,17 @@ using UnityEngine;
 [RequireComponent (typeof (Collider2D))]
 public class Player : MonoBehaviour {
 
-	public float jumpHeight = 4;
-	public float timeToJumpApex = .4f;
-	public float jumpVelocity = 8;
-	public float moveSpeed = 6;
-	public float runSpeed = 12;
-	public float accelerationTimeAirborne = .2f;
-	public float accelerationTimeGrounded = .1f;
+	float jumpHeight = 4;
+	float timeToJumpApex = .4f;
+	float jumpVelocity = 8;
+	float moveSpeed = 6;
 	float gravity = -10;
-	public Vector3 velocity;
-	float velocityXSmoothing;
+	Vector3 velocity;
 
 	Controller2D controller;
 
 	void Start () {
 		controller = GetComponent<Controller2D> ();
-
-		gravity = -(2 * jumpHeight) / Mathf.Pow (timeToJumpApex, 2);
-		jumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
-		print ("Gravity: " + gravity + " Jump Velocity: " + jumpVelocity);
 	}
 	
 	void Update () {
@@ -37,18 +29,8 @@ public class Player : MonoBehaviour {
 		if (Input.GetKeyDown (KeyCode.Space) && controller.collisions.below) {
 			velocity.y = jumpVelocity;
 		}
-		float targetVelocityX;
-		if (Input.GetKey (KeyCode.LeftShift)){
-			targetVelocityX = input.x * runSpeed;
-		} else {targetVelocityX = input.x * moveSpeed;}
-		velocity.x = Mathf.SmoothDamp (velocity.x, targetVelocityX, ref velocityXSmoothing, (controller.collisions.below)? accelerationTimeGrounded:accelerationTimeAirborne);
 
-		if (velocity.x >= 0){
-			gameObject.transform.localScale = new Vector3 (1f, 1f, 1f);
-		}else if (velocity.x <= 0){
-			gameObject.transform.localScale = new Vector3 (-1f, 1f, 1f);
-		}
-
+		velocity.x = input.x * moveSpeed;
 		velocity.y += gravity * Time.deltaTime;
 		controller.Move (velocity * Time.deltaTime);
 	}

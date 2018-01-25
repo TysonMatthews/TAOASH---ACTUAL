@@ -7,7 +7,7 @@ public class Controller2D : MonoBehaviour {
 
 	public LayerMask collisionMask;
 
-	public float skinWidth = .015f;
+	const float skinWidth = .015f;
 	public int horizontalRayCount = 4;
 	public int verticalRayCount = 4;
 
@@ -21,10 +21,6 @@ public class Controller2D : MonoBehaviour {
 	void Start (){
 		collider = GetComponent<BoxCollider2D> ();
 		CalculateRaySpacing ();
-	}
-
-	void Update() {
-		
 	}
 
 	public void Move(Vector3 velocity) {
