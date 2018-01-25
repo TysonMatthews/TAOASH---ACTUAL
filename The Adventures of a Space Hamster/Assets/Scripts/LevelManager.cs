@@ -152,7 +152,7 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	void SetHealthAmount () {
-		healthAmount.text = "Health: " + currentHealth;
+		healthAmount.text = "H e a  lth: " + currentHealth;
 
 	}
 		

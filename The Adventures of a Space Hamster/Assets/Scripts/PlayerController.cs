@@ -16,11 +16,6 @@ public class PlayerController : MonoBehaviour {
 	public float groundCheckRadius;
 	public LayerMask WhatIsGround;
 	public bool isGrounded;
-	public RaycastHit2D hit;
-	public float dist;
-	public Vector2 dir;
-	public Vector2 dirDR;
-	public Vector2 dirDL;
 
 	//Get Components Section
 	private Rigidbody2D rb2d;
@@ -35,16 +30,7 @@ public class PlayerController : MonoBehaviour {
 		//Gets stated component
 		rb2d = GetComponent<Rigidbody2D> ();
 		Anim = GetComponent<Animator> ();
-<<<<<<< HEAD
-<<<<<<< HEAD
-		C2D = GetComponent<Controller2D> ();
-		Plyr = GetComponent<Player> ();
-=======
 
->>>>>>> parent of 14fc260... 1/24/18 - T
-
-=======
->>>>>>> parent of 2210004... 1/22/18 - T
 
 		respawnPosition = transform.position;
 
@@ -52,34 +38,8 @@ public class PlayerController : MonoBehaviour {
 	}
 	
 	void Update () {
-<<<<<<< HEAD
-<<<<<<< HEAD
-		
-=======
 		//Checks if the player is touching the ground so that it can jump
 		isGrounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, WhatIsGround);
-=======
-		//Sets the direction of the raycast to below the Player
-		dir = Vector2.down;
-
-		//Sets the direction of the raycast to be at the bottom diagonals of the player
-		dirDR = new Vector2 (1f, -1f);
-		dirDL = new Vector2 (-1f, -1f);
-
-		//Draws a line to represent the raycasts
-		Debug.DrawRay(gameObject.transform.position, dir*dist,Color.red);
-		Debug.DrawRay(gameObject.transform.position, dirDR*dist,Color.red);
-		Debug.DrawRay(gameObject.transform.position, dirDL*dist,Color.red);
-
-		//Checks if the player is touching the ground so that it can jump
-		if(Physics2D.Raycast(gameObject.transform.position,dir,dist,WhatIsGround)){
-			isGrounded = true;
-		} else if (Physics2D.Raycast(gameObject.transform.position, dirDR, dist, WhatIsGround)) {
-			isGrounded = true;
-		} else if (Physics2D.Raycast(gameObject.transform.position, dirDL, dist, WhatIsGround)) {
-			isGrounded = true;
-		} else {isGrounded = false;}
->>>>>>> parent of 14fc260... 1/24/18 - T
 
 		//Walking Mechanics
 		if(Input.GetAxisRaw ("Horizontal") > 0f) {
@@ -94,10 +54,6 @@ public class PlayerController : MonoBehaviour {
 
 		Jump ();
 
-<<<<<<< HEAD
->>>>>>> parent of 2210004... 1/22/18 - T
-=======
->>>>>>> parent of 14fc260... 1/24/18 - T
 		//Animations
 		Anim.SetFloat ("Speed", Mathf.Abs (rb2d.velocity.x));
 		Anim.SetBool ("Grounded", isGrounded);
