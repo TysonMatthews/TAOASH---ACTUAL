@@ -5,18 +5,24 @@ using UnityEngine.SceneManagement;
 
 public class ButtonManager : MonoBehaviour {
 
-	public GameObject MainMenu;
-	public GameObject OptionsMenu;
+	public GameObject mainMenu;
+	public GameObject optionsMenu;
+	public GameObject levelSelect;
 
+	//Loads the next scene
 	public void PlayBttn() {
-		SceneManager.LoadScene ("Scene 01");
+		mainMenu.gameObject.SetActive (false);
+		levelSelect.gameObject.SetActive (true);
 	}
 
+	/*Disables the Main Menu objects and simultaneously
+	enables the Options Menu objects*/
 	public void OptionsBttn() {
-		MainMenu.gameObject.SetActive (false);
-		OptionsMenu.gameObject.SetActive (true);
+		mainMenu.gameObject.SetActive (false);
+		optionsMenu.gameObject.SetActive (true);
 	}
 
+	//Quits Game
 	public void ExitGameBttn() {
 		Application.Quit ();
 	}

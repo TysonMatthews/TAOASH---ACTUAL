@@ -23,18 +23,27 @@ public class PlayerController : MonoBehaviour {
 
 	public Vector3 respawnPosition;
 
-	public LevelManager iLevelManager;
+	public LevelManager iLM;
+	public Timer iTime;
+	public ScoreManager iScore;
+	public GameObject Camera;
+	public AudioSource hurtSound;
+	public AudioSource jumpSound;
+	public AudioSource checkpointSound;
 
 
 	void Start () {
 		//Gets stated component
 		rb2d = GetComponent<Rigidbody2D> ();
 		Anim = GetComponent<Animator> ();
+		iLM = FindObjectOfType<LevelManager> ();
+		iScore = FindObjectOfType<ScoreManager> ();
+		iTime = FindObjectOfType<Timer> ();
 
 
 		respawnPosition = transform.position;
 
-		iLevelManager = FindObjectOfType<LevelManager> ();
+		iLM = FindObjectOfType<LevelManager> ();
 	}
 	
 	void Update () {
@@ -53,6 +62,8 @@ public class PlayerController : MonoBehaviour {
 		}
 
 		Jump ();
+
+
 
 		//Animations
 		Anim.SetFloat ("Speed", Mathf.Abs (rb2d.velocity.x));
@@ -73,20 +84,46 @@ public class PlayerController : MonoBehaviour {
 		//Jumping Mechanics
 		if(Input.GetButtonDown ("Jump") && isGrounded) {
 			rb2d.velocity = new Vector3 (rb2d.velocity.x, jumpForce, 0f);
+			Instantiate (jumpSound, Camera.transform.position, Camera.transform.rotation);
+
 		}
 	}
 
 	void OnTriggerEnter2D (Collider2D other) {
 		if(other.tag == "DeathBox") {
-			iLevelManager.Respawn ();
+			Instantiate (hurtSound, Camera.transform.position, Camera.transform.rotation);
+			iLM.currentHealth = 0;
+			iLM.Respawn ();
 		}
-
-		if(other.tag == "Enemy") {
+		if(other.tag == "HurtBox") {
+			Instantiate (hurtSound, Camera.transform.position, Camera.transform.rotation);
 			rb2d.velocity = new Vector2 (rb2d.velocity.x, hurtJumpForce);
 		}
 
 		if(other.tag == "Checkpoint") {
 			respawnPosition = new Vector3(other.transform.position.x, other.transform.position.y + 2f, 0f);
+		}
+
+		if (other.gameObject.tag == ("Finish")) {
+			Instantiate (checkpointSound, Camera.transform.position, Camera.transform.rotation);
+			Debug.Log ("Trigger");
+			iScore.timeScorel01 = iTime.time;
+			iLM.FinLevel();
+		}
+		if(other.tag == "TimeStart"){
+			iTime.activated = true;
+		}
+	}
+
+	void OnCollisionEnter2D (Collision2D other){
+		if(other.gameObject.tag == "MovingPlatform"){
+			transform.parent = other.transform;
+		}
+	}
+
+	void OnCollisionExit2D (Collision2D other){
+		if(other.gameObject.tag == "MovingPlatform"){
+			transform.parent = null;
 		}
 	}
 }

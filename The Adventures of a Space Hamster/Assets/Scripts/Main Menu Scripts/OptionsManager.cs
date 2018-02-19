@@ -1,67 +1,110 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
 
 public class OptionsManager : MonoBehaviour {
 
-	public GameObject MainMenu;
-	public GameObject OptionsMenu;
-
-	public AudioMixer audioMixer;
-
+	public Toggle fullscreenToggle;
 	public Dropdown resolutionDropdown;
+	public Dropdown textureQualityDropdown;
+	public Dropdown antialiasingDropdown;
+	public Dropdown vSyncDropdown;
+	public Slider volumeSlider;
+	public Button applyBttn;
+	public AudioSource music;
+	public AudioSource soundSource;
+	public Resolution[] resolutions;
+	public GameSettings gameSettings;
+	public GameObject mainMenu;
+	public GameObject optionsMenu;
 
-	Resolution[] resolutions;
-
-	public PauseMenu pMenu;
+	public bool gameIsPaused;
 
 	void Start () {
-			Time.timeScale = 0f;
+		gameSettings = new GameSettings ();
+
+		fullscreenToggle.onValueChanged.AddListener (delegate { OnFullscreenToggle ();});
+		resolutionDropdown.onValueChanged.AddListener (delegate { OnResolutionChange ();});
+		textureQualityDropdown.onValueChanged.AddListener (delegate { OnTextureQualityChange ();});
+		antialiasingDropdown.onValueChanged.AddListener (delegate { OnAntialiasingChange ();});
+		vSyncDropdown.onValueChanged.AddListener (delegate { OnVSyncChange ();});
+		volumeSlider.onValueChanged.AddListener (delegate { OnVolumeChange ();});
+		applyBttn.onClick.AddListener (delegate { OnApply ();});
 
 		resolutions = Screen.resolutions;
-
-		//clears options in resolution dropdown
-		resolutionDropdown.ClearOptions();
-
-		//creates list of strings
-		List<string> options = new List<string> ();
-
-		int currentResolutionIndex = 0;
-
-		//converts array options to a string
-		for (int i = 0; i < resolutions.Length; i++) {
-			string option = resolutions [i].width + " x " + resolutions [i].height;	
-			options.Add(option);
-
-				if (resolutions[i].width == Screen.currentResolution.width &&
-					resolutions[i].height == Screen.currentResolution.height) {
-					currentResolutionIndex = i;
-				}
+		foreach(Resolution resolution in resolutions) {
+			resolutionDropdown.options.Add(new Dropdown.OptionData(resolution.ToString()));
 		}
 
-		//adds options list to resolution dropdown
-		resolutionDropdown.AddOptions (options);
-		resolutionDropdown.value = currentResolutionIndex;
+		if(File.Exists(Application.persistentDataPath + "/gamesettings.json") == true) {
+			LoadSettings ();
+		}
+	}
+
+	void Update ()
+	{
+		if (Input.GetKeyDown (KeyCode.Escape))
+		{
+			if (gameIsPaused)
+			{
+				BackBttn ();
+				Time.timeScale = 0f;
+			}
+		}
+	}
+
+	public void OnFullscreenToggle () {
+		gameSettings.fullscreen = Screen.fullScreen = fullscreenToggle.isOn;
+	}
+
+	public void OnResolutionChange () {
+		Screen.SetResolution (resolutions [resolutionDropdown.value].width, resolutions [resolutionDropdown.value].height, Screen.fullScreen);
+	}
+
+	public void OnTextureQualityChange () {
+		QualitySettings.masterTextureLimit = gameSettings.textureQuality = textureQualityDropdown.value;
+	}
+
+	public void OnAntialiasingChange () {
+		QualitySettings.antiAliasing = gameSettings.antialiasing = (int)Mathf.Pow (2f, antialiasingDropdown.value);
+	}
+
+	public void OnVSyncChange () {
+		QualitySettings.vSyncCount = gameSettings.vSync = vSyncDropdown.value;
+	}
+
+	public void OnVolumeChange () {
+		music.volume = gameSettings.volume = volumeSlider.value;
+	}
+
+	public void OnApply () {
+		SaveSettings ();
+	}
+
+	public void SaveSettings () {
+		string jsonData = JsonUtility.ToJson (gameSettings, true);
+		File.WriteAllText (Application.persistentDataPath + "/gamesettings.json", jsonData);
+	}
+
+	public void LoadSettings () {
+		gameSettings = JsonUtility.FromJson<GameSettings>(File.ReadAllText(Application.persistentDataPath + "/gamesettings.json"));
+
+		volumeSlider.value = gameSettings.volume;
+		antialiasingDropdown.value = gameSettings.antialiasing;
+		vSyncDropdown.value = gameSettings.vSync;
+		textureQualityDropdown.value = gameSettings.textureQuality;
+		resolutionDropdown.value = gameSettings.resolutionIndex;
+		fullscreenToggle.isOn = gameSettings.fullscreen;
+		Screen.fullScreen = gameSettings.fullscreen;
+
 		resolutionDropdown.RefreshShownValue ();
 	}
 
-	public void SetResolution (int resolutionIndex) {
-		Resolution resolution = resolutions[resolutionIndex];
-		Screen.SetResolution (resolution.width, resolution.height, Screen.fullScreen);
-	}
-
-	public void SetVolume (float volume) {
-		audioMixer.SetFloat ("Volume", volume);
-	}
-
-	public void BackBttn() {
-		MainMenu.gameObject.SetActive (true);
-		OptionsMenu.gameObject.SetActive (false);
-	}
-
-	public void SetFullscreen (bool isFullscreen) {
-		Screen.fullScreen = isFullscreen;
+	public void BackBttn () {
+		optionsMenu.gameObject.SetActive (false);
+		mainMenu.gameObject.SetActive (true);
 	}
 }

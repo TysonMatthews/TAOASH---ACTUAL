@@ -4,16 +4,21 @@ using UnityEngine;
 
 public class HurtPlayer : MonoBehaviour {
 
-	private LevelManager iLevelManager;
+	//How much damage to give
 	public int damageToGive;
 
+	//Reference Variables
+	private LevelManager iLM;
+
 	void Start () {
-		iLevelManager = FindObjectOfType<LevelManager> ();
+		//Finds stated objects
+		iLM = FindObjectOfType<LevelManager> ();
 	}
 	
 	void OnTriggerEnter2D (Collider2D other) {
+		//Hurts player if they touch attached object
 		if (other.tag == "Player") {
-			iLevelManager.HurtPlayer (damageToGive);
+			iLM.HurtPlayer (damageToGive);
 		}
 	}
 }

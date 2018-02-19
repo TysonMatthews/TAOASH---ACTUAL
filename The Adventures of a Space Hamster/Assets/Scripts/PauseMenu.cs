@@ -9,6 +9,7 @@ public class PauseMenu : MonoBehaviour {
 
 	public GameObject pauseMenuUI;
 	public GameObject optionsMenu;
+	public OptionsManager oManager;
 
 	void Update ()
 	{
@@ -23,36 +24,33 @@ public class PauseMenu : MonoBehaviour {
 			}
 		}
 	}
+
+	public void Pause () {
+		pauseMenuUI.SetActive (true);
+		Time.timeScale = 0f;
+		GameIsPaused = true;
+		oManager.gameIsPaused = true;
+	}
 	
-	public void Resume ()
-	{
+	public void Resume () {
 		pauseMenuUI.SetActive (false);
 		Time.timeScale = 1f;
 		GameIsPaused = false;
 	}
 
-	public void Pause ()
-	{
-		pauseMenuUI.SetActive (true);
-		Time.timeScale = 0f;
-		GameIsPaused = true;
-	}
-
-	public void OptionsMenu(){
+	public void Options () {
 		pauseMenuUI.gameObject.SetActive (false);
 		optionsMenu.gameObject.SetActive (true);
 
 	}
 
-	public void LoadMenu()
-	{
+	public void Menu () {
 		Time.timeScale = 1f;
 		SceneManager.LoadScene ("Main Menu");
 	
 	}
 
-	public void QuitGame()
-	{
+	public void Quit () {
 		Debug.Log ("Quitting game...");
 		Application.Quit ();
 	}

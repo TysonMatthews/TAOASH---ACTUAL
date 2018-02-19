@@ -6,7 +6,21 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour {
 
+	//Script Reference Variables
 	public PlayerController iPlayer;
+	public ScoreManager iScore;
+	public Timer iTime;
+	public CameraController iCam;
+	public Animator playerAnim;
+	public Animator creditsTXTAnim;
+	public Animator creditsIMGAnim;
+	public Image creditsIMG;
+	public Image creditsIMG02;
+	public GameObject creditsIMGi;
+	public GameObject creditsTXT;
+	public GameObject barrier04;
+	public GameObject barrier05;
+	public GameObject endBarrier;
 
 	//Health/Lifes Variables
 	public bool beingDamaged;
@@ -31,11 +45,18 @@ public class LevelManager : MonoBehaviour {
 	public int emptyOxyDamage;
 	public GameObject oxygenBarFill;
 
+	//Coin Variables
+	public int coinCount;
+	public Text coinText;
+
+	//Being Damaged Variables
 	public Color red = new Color (233f, 152f, 152f, 255f);
 	public Color white = new Color (255f, 255f, 255f, 255f);
+	public Color black = new Color (0f, 0f, 255f);
 	public float beingDamagedTimer;
 	public bool colorChange;
 	public bool coroutineCalled;
+	public GameObject deathParticle;
 
 	//Respawning Variables
 	public float waitToRespawn;
@@ -44,8 +65,15 @@ public class LevelManager : MonoBehaviour {
 
 	void Start () {
 		iPlayer = FindObjectOfType<PlayerController> ();
+		iScore = FindObjectOfType<ScoreManager> ();
+		iTime = FindObjectOfType<Timer> ();
+		iCam = FindObjectOfType<CameraController> ();
 
 		gameOver.gameObject.SetActive (false);
+		creditsIMGi.gameObject.SetActive (false);
+		creditsTXT.gameObject.SetActive (false);
+		barrier04.gameObject.SetActive (false);
+		barrier05.gameObject.SetActive (false);
 
 		currentHealth = maxHealth;
 		SetHealthAmount ();
@@ -68,7 +96,6 @@ public class LevelManager : MonoBehaviour {
 		}
 
 		if (!respawning) {
-			oxygenBarSlider.value -= (oxygenDrain * Time.deltaTime);
 			currentOxygen -= (oxygenDrain * Time.deltaTime);
 		}
 
@@ -92,12 +119,13 @@ public class LevelManager : MonoBehaviour {
 		if (currentHealth < 0f) {
 			currentHealth = 0;
 		}
-		SetHealthAmount ();
 
 		if (currentHealth > maxHealth) {
 			currentHealth = maxHealth;
 		}
 		SetHealthAmount ();
+		SetCoinAmount();
+		SetOxygenAmount ();
 	}
 
 	public void Respawn () {
@@ -105,6 +133,7 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	public IEnumerator RespawnCo () {
+		Instantiate (deathParticle, iPlayer.transform.position, iPlayer.transform.rotation);
 		iPlayer.gameObject.SetActive (false);
 
 		yield return new WaitForSeconds (waitToRespawn);
@@ -123,6 +152,7 @@ public class LevelManager : MonoBehaviour {
 
 	public IEnumerator GameOver () {
 		gameOver.gameObject.SetActive (true);
+		coinCount = 0;
 
 		yield return new WaitForSeconds (waitToReset);
 
@@ -135,13 +165,43 @@ public class LevelManager : MonoBehaviour {
 		yield return null;
 	}
 
-	public IEnumerator BeingDamaged ()
-	{
+	public IEnumerator BeingDamaged (){
 		iPlayer.GetComponent<SpriteRenderer>().color = red;
 		yield return new WaitForSeconds (.2f);
 		iPlayer.GetComponent<SpriteRenderer> ().color = white;
 		beingDamaged = false;
 		yield return new WaitForSeconds (.2f);
+	}
+		
+	public void FinLevel (){
+		StartCoroutine ("FinishLevel");
+		Debug.Log ("Function");
+	}
+
+	public IEnumerator FinishLevel () {
+		Debug.Log ("Coroutine");
+		iPlayer.enabled = false;
+		iCam.target = endBarrier;
+		iCam.followAhead = 0f;
+		creditsIMGi.gameObject.SetActive (true);
+		creditsTXT.gameObject.SetActive (true);
+		barrier04.gameObject.SetActive (true);
+		barrier05.gameObject.SetActive (true);
+		
+		yield return new WaitForSeconds (2f);
+
+		playerAnim.SetBool ("LevelFinished", false);
+		creditsIMGAnim.SetBool ("Fade Image", true);
+
+		yield return new WaitForSeconds (2f);
+		creditsIMG02.gameObject.SetActive (true);
+
+		creditsIMGAnim.SetBool ("Fade Image", false);
+		creditsTXTAnim.SetBool ("Roll Text", true);
+
+		yield return new WaitForSeconds (30f);
+
+		SceneManager.LoadScene ("Main Menu");
 	}
 
 	public void HurtPlayer (int damageToTake) {
@@ -153,7 +213,20 @@ public class LevelManager : MonoBehaviour {
 
 	void SetHealthAmount () {
 		healthAmount.text = "H e a  lth: " + currentHealth;
+		healthBarSlider.value = currentHealth;
+	}
 
+	void SetCoinAmount () {
+		coinText.text = "" + coinCount;
+		iScore.coinScorel01 = coinCount;
+	}
+
+	void SetOxygenAmount () {
+		oxygenBarSlider.value = currentOxygen;
+	}
+
+	public void AddCoins (int coinsToAdd) {
+		coinCount += coinsToAdd;
 	}
 		
 	void UpdateLives () {

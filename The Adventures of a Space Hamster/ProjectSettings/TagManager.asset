@@ -8,6 +8,13 @@ TagManager:
   - Checkpoint
   - DeathBox
   - Enemy
+  - Coin
+  - PopBox
+  - OxygenBubble
+  - MovingPlatform
+  - HurtBox
+  - TimeStart
+  - LE
   layers:
   - Default
   - TransparentFX
@@ -20,7 +27,7 @@ TagManager:
   - Ground
   - Background
   - Player
-  - 
+  - LevelEnd
   - 
   - 
   - 

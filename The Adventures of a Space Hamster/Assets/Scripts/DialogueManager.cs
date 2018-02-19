@@ -11,12 +11,22 @@ public class DialogueManager : MonoBehaviour {
 	public float typeSpeed;
 
 	public Animator Anim;
+	public DialogueTrigger dTrig;
 
 	private Queue<string> sentences;
 
 	void Start () {
 		sentences = new Queue<string> ();
+		dTrig = GetComponent<DialogueTrigger> ();
+	}
 
+	void Update () {
+		/*If the continue button is
+		 * pressed then it displays the next
+		 * sentence*/
+		if (Input.GetKeyDown(KeyCode.E)) {
+			DisplayNextSentence ();
+		}
 	}
 
 	public void StartDialogue (Dialogue dialogue) {
@@ -53,7 +63,7 @@ public class DialogueManager : MonoBehaviour {
 
 	void EndDialogue() {
 		Debug.Log ("End of Conversation");
-
 		Anim.SetBool ("IsOpen", false);
+		dTrig.EndD ();
 	}
 }
